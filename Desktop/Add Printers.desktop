@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Add Printers
+Comment=
+Exec=/ACM/scripts/addPrinter.sh
+Icon=xfce-printer
+Path=
+Terminal=false
+StartupNotify=false
